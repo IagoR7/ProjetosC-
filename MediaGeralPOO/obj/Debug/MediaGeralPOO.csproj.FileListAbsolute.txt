@@ -1,0 +1,14 @@
+C:\Curso\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe.config
+C:\Curso\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe
+C:\Curso\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.pdb
+C:\Curso\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csprojAssemblyReference.cache
+C:\Curso\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+C:\Curso\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.exe
+C:\Curso\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.pdb
+D:\Área de trabalho\C# Completo e Profissional-Gabriel Artigas Pierri\12. Programação Orientada a Objeto (POO)\26.1 MediaGeralPOO\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe.config
+D:\Área de trabalho\C# Completo e Profissional-Gabriel Artigas Pierri\12. Programação Orientada a Objeto (POO)\26.1 MediaGeralPOO\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe
+D:\Área de trabalho\C# Completo e Profissional-Gabriel Artigas Pierri\12. Programação Orientada a Objeto (POO)\26.1 MediaGeralPOO\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.pdb
+D:\Área de trabalho\C# Completo e Profissional-Gabriel Artigas Pierri\12. Programação Orientada a Objeto (POO)\26.1 MediaGeralPOO\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.AssemblyReference.cache
+D:\Área de trabalho\C# Completo e Profissional-Gabriel Artigas Pierri\12. Programação Orientada a Objeto (POO)\26.1 MediaGeralPOO\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+D:\Área de trabalho\C# Completo e Profissional-Gabriel Artigas Pierri\12. Programação Orientada a Objeto (POO)\26.1 MediaGeralPOO\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.exe
+D:\Área de trabalho\C# Completo e Profissional-Gabriel Artigas Pierri\12. Programação Orientada a Objeto (POO)\26.1 MediaGeralPOO\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.pdb
