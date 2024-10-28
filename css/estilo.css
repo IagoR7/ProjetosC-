@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(rgb(98, 104, 222), rgb(255, 255, 255));
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.central{
+    width: fit-content;
+    background: white;
+
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow:3px 3px 15px black;
+}
+
+img{
+    width: 360px;
+    
+}
+
+.central .botoes button{
+    transition: 0.7s;
+    cursor: pointer;
+    border-radius: 20px;
+    height: 35px;
+    width: 87px;
+    background: cyan;
+    border:none;
+}
+
+.central .botoes button:hover{
+    background: black;
+    color: cyan;
+    transform: translateY(-2px) ;
+    
+}
+
+.central .botoes{
+    margin-top: 10px;
+}
