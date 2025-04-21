@@ -1,0 +1,10 @@
+C:\Users\Microsoft\source\repos\Curso\ClonarString\ClonarString\bin\Debug\ClonarString.exe.config
+C:\Users\Microsoft\source\repos\Curso\ClonarString\ClonarString\bin\Debug\ClonarString.exe
+C:\Users\Microsoft\source\repos\Curso\ClonarString\ClonarString\bin\Debug\ClonarString.pdb
+C:\Users\Microsoft\source\repos\Curso\ClonarString\ClonarString\obj\Debug\ClonarString.csproj.AssemblyReference.cache
+C:\Users\Microsoft\source\repos\Curso\ClonarString\ClonarString\obj\Debug\ClonarString.Form1.resources
+C:\Users\Microsoft\source\repos\Curso\ClonarString\ClonarString\obj\Debug\ClonarString.Properties.Resources.resources
+C:\Users\Microsoft\source\repos\Curso\ClonarString\ClonarString\obj\Debug\ClonarString.csproj.GenerateResource.cache
+C:\Users\Microsoft\source\repos\Curso\ClonarString\ClonarString\obj\Debug\ClonarString.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\Curso\ClonarString\ClonarString\obj\Debug\ClonarString.exe
+C:\Users\Microsoft\source\repos\Curso\ClonarString\ClonarString\obj\Debug\ClonarString.pdb
