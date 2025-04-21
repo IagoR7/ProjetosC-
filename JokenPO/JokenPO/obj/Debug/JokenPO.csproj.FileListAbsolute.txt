@@ -1,0 +1,10 @@
+C:\Users\Microsoft\source\repos\Curso\JokenPO\JokenPO\bin\Debug\JokenPO.exe.config
+C:\Users\Microsoft\source\repos\Curso\JokenPO\JokenPO\bin\Debug\JokenPO.exe
+C:\Users\Microsoft\source\repos\Curso\JokenPO\JokenPO\bin\Debug\JokenPO.pdb
+C:\Users\Microsoft\source\repos\Curso\JokenPO\JokenPO\obj\Debug\JokenPO.csproj.AssemblyReference.cache
+C:\Users\Microsoft\source\repos\Curso\JokenPO\JokenPO\obj\Debug\JokenPO.Form1.resources
+C:\Users\Microsoft\source\repos\Curso\JokenPO\JokenPO\obj\Debug\JokenPO.Properties.Resources.resources
+C:\Users\Microsoft\source\repos\Curso\JokenPO\JokenPO\obj\Debug\JokenPO.csproj.GenerateResource.cache
+C:\Users\Microsoft\source\repos\Curso\JokenPO\JokenPO\obj\Debug\JokenPO.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\Curso\JokenPO\JokenPO\obj\Debug\JokenPO.exe
+C:\Users\Microsoft\source\repos\Curso\JokenPO\JokenPO\obj\Debug\JokenPO.pdb
