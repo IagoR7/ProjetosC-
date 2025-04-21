@@ -1,0 +1,7 @@
+C:\Users\Microsoft\source\repos\_PRATICA\GerenciadorDeLivros\GerenciadorDeLivros\bin\Debug\GerenciadorDeLivros.exe.config
+C:\Users\Microsoft\source\repos\_PRATICA\GerenciadorDeLivros\GerenciadorDeLivros\bin\Debug\GerenciadorDeLivros.exe
+C:\Users\Microsoft\source\repos\_PRATICA\GerenciadorDeLivros\GerenciadorDeLivros\bin\Debug\GerenciadorDeLivros.pdb
+C:\Users\Microsoft\source\repos\_PRATICA\GerenciadorDeLivros\GerenciadorDeLivros\obj\Debug\GerenciadorDeLivros.csproj.AssemblyReference.cache
+C:\Users\Microsoft\source\repos\_PRATICA\GerenciadorDeLivros\GerenciadorDeLivros\obj\Debug\GerenciadorDeLivros.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\_PRATICA\GerenciadorDeLivros\GerenciadorDeLivros\obj\Debug\GerenciadorDeLivros.exe
+C:\Users\Microsoft\source\repos\_PRATICA\GerenciadorDeLivros\GerenciadorDeLivros\obj\Debug\GerenciadorDeLivros.pdb
