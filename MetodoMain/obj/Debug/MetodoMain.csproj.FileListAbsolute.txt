@@ -1,0 +1,7 @@
+C:\Users\Microsoft\source\repos\Curso\MetodoMain\bin\Debug\MetodoMain.exe.config
+C:\Users\Microsoft\source\repos\Curso\MetodoMain\bin\Debug\MetodoMain.exe
+C:\Users\Microsoft\source\repos\Curso\MetodoMain\bin\Debug\MetodoMain.pdb
+C:\Users\Microsoft\source\repos\Curso\MetodoMain\obj\Debug\MetodoMain.csproj.AssemblyReference.cache
+C:\Users\Microsoft\source\repos\Curso\MetodoMain\obj\Debug\MetodoMain.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\Curso\MetodoMain\obj\Debug\MetodoMain.exe
+C:\Users\Microsoft\source\repos\Curso\MetodoMain\obj\Debug\MetodoMain.pdb
