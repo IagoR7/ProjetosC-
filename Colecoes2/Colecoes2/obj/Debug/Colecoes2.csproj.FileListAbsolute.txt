@@ -1,0 +1,7 @@
+C:\Users\Microsoft\source\repos\_PRATICA\Colecoes2\Colecoes2\bin\Debug\Colecoes2.exe.config
+C:\Users\Microsoft\source\repos\_PRATICA\Colecoes2\Colecoes2\bin\Debug\Colecoes2.exe
+C:\Users\Microsoft\source\repos\_PRATICA\Colecoes2\Colecoes2\bin\Debug\Colecoes2.pdb
+C:\Users\Microsoft\source\repos\_PRATICA\Colecoes2\Colecoes2\obj\Debug\Colecoes2.csproj.AssemblyReference.cache
+C:\Users\Microsoft\source\repos\_PRATICA\Colecoes2\Colecoes2\obj\Debug\Colecoes2.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\_PRATICA\Colecoes2\Colecoes2\obj\Debug\Colecoes2.exe
+C:\Users\Microsoft\source\repos\_PRATICA\Colecoes2\Colecoes2\obj\Debug\Colecoes2.pdb
