@@ -1,0 +1,7 @@
+C:\Users\Microsoft\source\repos\Curso\ClasseRandom\ClasseRandom\bin\Debug\ClasseRandom.exe.config
+C:\Users\Microsoft\source\repos\Curso\ClasseRandom\ClasseRandom\bin\Debug\ClasseRandom.exe
+C:\Users\Microsoft\source\repos\Curso\ClasseRandom\ClasseRandom\bin\Debug\ClasseRandom.pdb
+C:\Users\Microsoft\source\repos\Curso\ClasseRandom\ClasseRandom\obj\Debug\ClasseRandom.csproj.AssemblyReference.cache
+C:\Users\Microsoft\source\repos\Curso\ClasseRandom\ClasseRandom\obj\Debug\ClasseRandom.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\Curso\ClasseRandom\ClasseRandom\obj\Debug\ClasseRandom.exe
+C:\Users\Microsoft\source\repos\Curso\ClasseRandom\ClasseRandom\obj\Debug\ClasseRandom.pdb
