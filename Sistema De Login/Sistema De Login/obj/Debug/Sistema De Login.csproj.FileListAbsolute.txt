@@ -1,0 +1,11 @@
+C:\Users\Microsoft\source\repos\Curso\Sistema De Login\Sistema De Login\obj\Debug\Sistema De Login.csproj.AssemblyReference.cache
+C:\Users\Microsoft\source\repos\Curso\Sistema De Login\Sistema De Login\obj\Debug\Sistema_De_Login.Form1.resources
+C:\Users\Microsoft\source\repos\Curso\Sistema De Login\Sistema De Login\obj\Debug\Sistema_De_Login.Properties.Resources.resources
+C:\Users\Microsoft\source\repos\Curso\Sistema De Login\Sistema De Login\obj\Debug\Sistema De Login.csproj.GenerateResource.cache
+C:\Users\Microsoft\source\repos\Curso\Sistema De Login\Sistema De Login\obj\Debug\Sistema De Login.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\Curso\Sistema De Login\Sistema De Login\bin\Debug\Sistema De Login.exe.config
+C:\Users\Microsoft\source\repos\Curso\Sistema De Login\Sistema De Login\bin\Debug\Sistema De Login.exe
+C:\Users\Microsoft\source\repos\Curso\Sistema De Login\Sistema De Login\bin\Debug\Sistema De Login.pdb
+C:\Users\Microsoft\source\repos\Curso\Sistema De Login\Sistema De Login\obj\Debug\Sistema De Login.exe
+C:\Users\Microsoft\source\repos\Curso\Sistema De Login\Sistema De Login\obj\Debug\Sistema De Login.pdb
+C:\Users\Microsoft\source\repos\Curso\Sistema De Login\Sistema De Login\obj\Debug\Sistema_De_Login.FormLogin.resources
