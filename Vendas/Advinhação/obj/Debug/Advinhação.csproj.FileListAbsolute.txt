@@ -1,0 +1,7 @@
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Advinhação\bin\Debug\Advinhação.exe.config
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Advinhação\bin\Debug\Advinhação.exe
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Advinhação\bin\Debug\Advinhação.pdb
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Advinhação\obj\Debug\Advinhação.csproj.AssemblyReference.cache
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Advinhação\obj\Debug\Advinhação.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Advinhação\obj\Debug\Advinhação.exe
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Advinhação\obj\Debug\Advinhação.pdb

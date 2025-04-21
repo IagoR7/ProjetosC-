@@ -1,0 +1,7 @@
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Regras De Negocio\bin\Debug\Regras De Negocio.exe.config
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Regras De Negocio\bin\Debug\Regras De Negocio.exe
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Regras De Negocio\bin\Debug\Regras De Negocio.pdb
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Regras De Negocio\obj\Debug\Regras De Negocio.csproj.AssemblyReference.cache
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Regras De Negocio\obj\Debug\Regras De Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Regras De Negocio\obj\Debug\Regras De Negocio.exe
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Regras De Negocio\obj\Debug\Regras De Negocio.pdb

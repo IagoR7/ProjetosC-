@@ -1,0 +1,7 @@
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Vendas\bin\Debug\Vendas.exe.config
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Vendas\bin\Debug\Vendas.exe
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Vendas\bin\Debug\Vendas.pdb
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Vendas\obj\Debug\Registros De Vendas.csproj.AssemblyReference.cache
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Vendas\obj\Debug\Registros De Vendas.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Vendas\obj\Debug\Vendas.exe
+C:\Users\Microsoft\source\repos\_PRATICA\Vendas\Vendas\obj\Debug\Vendas.pdb
