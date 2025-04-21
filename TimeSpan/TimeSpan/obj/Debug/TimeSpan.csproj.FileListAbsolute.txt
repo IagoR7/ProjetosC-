@@ -1,0 +1,7 @@
+C:\Users\Microsoft\source\repos\_PRATICA\TimeSpan\TimeSpan\obj\Debug\TimeSpan.csproj.AssemblyReference.cache
+C:\Users\Microsoft\source\repos\_PRATICA\TimeSpan\TimeSpan\obj\Debug\TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\_PRATICA\TimeSpan\TimeSpan\bin\Debug\TimeSpan.exe.config
+C:\Users\Microsoft\source\repos\_PRATICA\TimeSpan\TimeSpan\bin\Debug\TimeSpan.exe
+C:\Users\Microsoft\source\repos\_PRATICA\TimeSpan\TimeSpan\bin\Debug\TimeSpan.pdb
+C:\Users\Microsoft\source\repos\_PRATICA\TimeSpan\TimeSpan\obj\Debug\TimeSpan.exe
+C:\Users\Microsoft\source\repos\_PRATICA\TimeSpan\TimeSpan\obj\Debug\TimeSpan.pdb
