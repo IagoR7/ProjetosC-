@@ -1,0 +1,7 @@
+C:\Users\Microsoft\source\repos\_PRATICA\classeThread\classeThread\bin\Debug\classeThread.exe.config
+C:\Users\Microsoft\source\repos\_PRATICA\classeThread\classeThread\bin\Debug\classeThread.exe
+C:\Users\Microsoft\source\repos\_PRATICA\classeThread\classeThread\bin\Debug\classeThread.pdb
+C:\Users\Microsoft\source\repos\_PRATICA\classeThread\classeThread\obj\Debug\classeThread.csproj.AssemblyReference.cache
+C:\Users\Microsoft\source\repos\_PRATICA\classeThread\classeThread\obj\Debug\classeThread.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\_PRATICA\classeThread\classeThread\obj\Debug\classeThread.exe
+C:\Users\Microsoft\source\repos\_PRATICA\classeThread\classeThread\obj\Debug\classeThread.pdb
